@@ -8,5 +8,12 @@
 [Kevin Njogu](https://github.com/KevinNjogu/)
 
 [Micah Njeru](https://github.com/MicahNjeru/)
+
+*Process*
+1. Python-OCR on PDFs
+2. Web Scraping on data from output of step 1
+3. Saving data from step 1 & 2 into AWS S3.
+
+
     
 
