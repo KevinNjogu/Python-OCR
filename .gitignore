@@ -40,6 +40,7 @@ Temporary Items
 # User settings
 
 xcuserdata/
+venv
 
 # Files to ignore
 
