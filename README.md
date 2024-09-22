@@ -14,6 +14,10 @@
 2. Web Scraping on data from output of step 1
 3. Saving data from step 1 & 2 into AWS S3.
 
+*Tools Used*
+1. Jupyter notebooks - for OCR script writing
+2. Visual Studio Code - for script prototyping
+
 
     
 
