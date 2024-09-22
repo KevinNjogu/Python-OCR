@@ -7,8 +7,8 @@
 ### Owners & Collaborators: 
 | Name | Profile |
 | ------ | ------ |
-| [**Kevin Njogu**](https://github.com/KevinNjogu) | <img src="https://avatars.githubusercontent.com/u/132701270?v=4" alt="Kevin Njogu" width="90" hreft="https://github.com/KevinNjogu"/> |
-| [**Micah Njeru**](https://github.com/MicahNjeru/) | <img src="https://avatars.githubusercontent.com/u/97245548?v=4" alt="Micah Njeru" width="90" href="https://github.com/MicahNjeru"/> |
+| [**Kevin Njogu**](https://github.com/KevinNjogu) | <a href="https://github.com/KevinNjogu"><img src="https://avatars.githubusercontent.com/u/132701270?v=4" alt="Kevin Njogu" width="90" hreft="https://github.com/KevinNjogu"/></a> |
+| [**Micah Njeru**](https://github.com/MicahNjeru/) | <a href="https://github.com/MicahNjeru"><img href="https://github.com/MicahNjeru" src="https://avatars.githubusercontent.com/u/97245548?v=4" alt="Micah Njeru" width="90"/></a> |
 
 *Process*
 1. Python-OCR on PDFs
