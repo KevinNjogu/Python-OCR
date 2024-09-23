@@ -6,7 +6,7 @@
 2. Make sure you have Python installed (Python > 3.6)
 3. Create a virtual environment by running `python3 -m venv venv`
     - This will create a virtual environment named **venv**
-4. Run `source venv/bin/activate` to activate the environment.
+4. Run `source venv/bin/activate` on *Unix* OR `venv\Scripts\activate` on *Windows* to activate the environment.
     - Your terminal/cmd should have **(venv)** at the very start
 5. Then run `pip install -r virtual_environment.txt` to install the dependencies.
     - The `-r` flag is to make the command persist installing the dependencies
