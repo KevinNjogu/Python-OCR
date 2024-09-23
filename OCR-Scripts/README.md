@@ -17,3 +17,7 @@
 
 ### Resources
 1. [How to Build Optical Character Recognition (OCR) in Python](https://builtin.com/data-science/python-ocr)
+
+### Helpful Tools
+1. To activate virtual environment in Windows, run:
+    `venv\Scripts\activate`
