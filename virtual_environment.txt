@@ -2,3 +2,4 @@ numpy==2.0.2
 packaging==24.1
 pillow==10.4.0
 pytesseract==0.3.13
+python-dotenv==1.0.1

@@ -17,6 +17,9 @@
 
 ### Resources
 1. [How to Build Optical Character Recognition (OCR) in Python](https://builtin.com/data-science/python-ocr)
+2. [Convert Python List to Json](https://www.geeksforgeeks.org/convert-python-list-to-json/)
+3. [How to append string in Python?](https://codedamn.com/news/python/append-string-in-python)
+4. [How To Create And Use .env Files In Python](https://www.geeksforgeeks.org/how-to-create-and-use-env-files-in-python/)
 
 ### Helpful Tools
 1. To activate virtual environment in Windows, run:
