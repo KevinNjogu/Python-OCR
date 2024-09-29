@@ -17,7 +17,7 @@
 ## Security Configurations
 1. Create a **.env** file at the root of the project.
 2. Open the **.env** file and insert the absolute path up to the root of the project folder as shown in the example below:
-    - `WORKING_DIRECTORY = "/USER/PATH/PATH/.../FOLDER HOLDING THE PROJECT/OCR-Scripts/"`
+    - `WORKING_DIRECTORY = "/USER/PATH/PATH/.../FOLDER HOLDING THE PROJECT/OCR-Scripts"`
     - Where the `/PATH/` & `/FOLDER HOLDING THE PROJECT/` are folders before getting to the project folder
 
 ### Resources
@@ -25,6 +25,7 @@
 2. [Convert Python List to Json](https://www.geeksforgeeks.org/convert-python-list-to-json/)
 3. [How to append string in Python?](https://codedamn.com/news/python/append-string-in-python)
 4. [How To Create And Use .env Files In Python](https://www.geeksforgeeks.org/how-to-create-and-use-env-files-in-python/)
+5. [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 
 ### Quick Helpful Commands
 1. To activate virtual environment in Windows, run:

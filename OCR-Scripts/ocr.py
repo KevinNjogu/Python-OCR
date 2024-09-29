@@ -16,48 +16,71 @@ Load Environment Variable
 load_dotenv()
 os_path = os.getenv("WORKING_DIRECTORY")
 
+
 """
-Steps to read images, perform OCR on them and output to JSON file
+OCR Function
 """
-### DOW-30 Section
 
-# Get the directory where images are to be sourced from
-dow_directory = "OCR-Scripts/images_source/DOW-30/"
+def perform_ocr_on(input_path, output_path, output_filename):
+    """
+    How to feed in the variables:
+        1. input_path: write the path where the individual images are stored
+                        starting from where the folder after where script is running
+                        up to the image(s) location
+        2. output_path: write the path to where the output should be saved to. It's best
+                        if the folder already exists so that it's saved inside.
+        3. output_filename: the name of the output file containing the string(s). The
+                        function will add the JSON extension for you.
 
-# Run a for loop to:
-#   1. Get the image name and assign it to a temporary variable
-#   2. Convert image into a numpy array
-#   3. Perform OCR on the numpy array 
-#   4. Save Pytesseract OCR output to a variable
-#   4. Save the output variable string into a JSON file
+    Function purpose:
+        1. Loading the image(s) in a folder to perform OCR on
+        2. Perform OCR on the image(s)
+        3. Save output to a temporary variable
+        4. Write the output as string to a JSON file
+        5. Return the list of images processed in your terminal
+    """ 
 
-## Loop through all files in the path folder
-output_string = ""
+    ## Create temp variables
+    # Path of folder containing images to perform OCR on starting from script's path
+    input_folder_path = input_path
 
-for file in os.listdir(path=f"{os_path}/images_source/DOW-30/"):
-    # Save the current file name and path
-    image_source = f"{os_path}/images_source/DOW-30/{file}"
+    # String output variable after performing OCR
+    output_string = ""
 
-    # Convert image into an numpy array
-    image_np = np.array(Image.open(image_source))
+    # Path of folder to output to 
+    output_folder_path = output_path
 
-    # Use pytesseract to perform OCR on the numpy array
-    text_string = pytesseract.image_to_string(image_np)
+    # Name of output JSON file
+    output_json_name = output_filename
 
-    # Save the output into a separate variable to use for writing into JSON file
-    output_string += text_string
+    # Loop for performing OCR on images in the folder
+    for file in os.listdir(path=f"{os_path}{input_folder_path}"):
+        # Save the current file name and path
+        image_source = f"{os_path}{input_folder_path}{file}"
+
+        # Convert image into an numpy array
+        image_np = np.array(Image.open(image_source))
+
+        # Use pytesseract to perform OCR on the numpy array
+        text_string = pytesseract.image_to_string(image_np)
+
+        # Save the output into a separate variable to use for writing into JSON file
+        output_string += text_string
+
+    ## Writing to JSON file
+    with open(f"{os_path}{output_folder_path}{output_json_name}.json", "w") as final:
+        json.dump(output_string, final)
 
     # Print worked on files to confirm
-    print(f"\nPerformed OCR on '{file}'.")
+    print("\nPerformed OCR on:\n")
+    for file in os.listdir(path=f"{os_path}{input_folder_path}"):
+        print(f"{file}\n")
 
 
-## Print output of the final variable & data type
-print(f"\n{output_string}")
-print(output_string.format)
 
-"""
-Writing to JSON file
-"""
+# Test for function: perform_ocr_on
+dow_input_directory = "/images_source/DOW-30/"
+dow_output_directory = "/output/"
+dow_file_name = "DOW-30"
 
-with open(f"{os_path}output/DOW-30.json", "w") as final:
-    json.dump(output_string, final)
+perform_ocr_on(dow_input_directory, dow_output_directory, dow_file_name)

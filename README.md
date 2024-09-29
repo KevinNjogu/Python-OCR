@@ -11,13 +11,14 @@
 | [**Micah Njeru**](https://github.com/MicahNjeru/) | <a href="https://github.com/MicahNjeru"><img href="https://github.com/MicahNjeru" src="https://avatars.githubusercontent.com/u/97245548?v=4" alt="Micah Njeru" width="200"/></a> |
 
 *Process*
-1. Python-OCR on PDFs
+1. Python-OCR on Images
 2. Web Scraping on data from output of step 1
 3. Saving data from step 1 & 2 into AWS S3.
 
 *Tools Used*
-1. Jupyter notebooks - for OCR script writing
-2. Visual Studio Code - for script prototyping
+1. Visual Studio Code - for OCR script writing & for script prototyping
+2. Pytesseract - for performing OCR on PIL images
+3. PIL - for image processing capabilities
 
 ## Resources
 We used the folloring tutorials to achieve our desired goals:
