@@ -26,6 +26,7 @@
 3. [How to append string in Python?](https://codedamn.com/news/python/append-string-in-python)
 4. [How To Create And Use .env Files In Python](https://www.geeksforgeeks.org/how-to-create-and-use-env-files-in-python/)
 5. [Python Functions](https://www.w3schools.com/python/python_functions.asp)
+6. [Python - String Concatenation](https://www.w3schools.com/python/python_strings_concatenate.asp)
 
 ### Quick Helpful Commands
 1. To activate virtual environment in Windows, run:

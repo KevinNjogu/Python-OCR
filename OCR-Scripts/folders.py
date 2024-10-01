@@ -22,5 +22,5 @@ def loop_through_folders(parent_folder):
       print(os.path.join(root, dir))
 
 # Example usage
-parent_folder = os_path
+parent_folder = f"{os_path}/images_source/"
 loop_through_folders(parent_folder)

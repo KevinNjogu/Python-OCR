@@ -78,13 +78,22 @@ def perform_ocr_on(input_path, output_path, output_filename):
 
 
 
-# Test for function: perform_ocr_on
-dow_input_directory = "/images_source/DOW-30/"
-dow_output_directory = "/output/"
-dow_file_name = "DOW-30"
+# DOW OCR Processing
+# dow_input_directory = "/images_source/DOW-30/"
+# dow_output_directory = "/output/"
+# dow_file_name = "DOW-30"
+# perform_ocr_on(dow_input_directory, dow_output_directory, dow_file_name)
 
-perform_ocr_on(dow_input_directory, dow_output_directory, dow_file_name)
+# # S&P OCR Processing
+# s_and_p_input_directory = "/images_source/Flaire-—-S&P-500-Companies:-Full-List-and-Performance---NerdWallet/"
+# s_and_p_output_directory = "/output/"
+# s_and_p_file_name = "S&P-500"
+# perform_ocr_on(s_and_p_input_directory, s_and_p_output_directory, s_and_p_file_name)
 
+
+"""
+Folder Loop Function
+"""
 
 def loop_through_folders(parent_folder):
     """
@@ -93,17 +102,49 @@ def loop_through_folders(parent_folder):
     Args:
         parent_folder: The path to the parent folder.
     """
-    print("\n")
     folders = []
 
     for root, dirs, files in os.walk(parent_folder):
         for dir in dirs:
-            # Do something with each subfolder
+            # Append the full path to root folder containing images
             folders.append(dir)
     return folders
 
-# Example usage
-parent_folder = f"{os_path}/images_source/NASDAQ/"
-output_folders = loop_through_folders(parent_folder)
-for folder in output_folders:
-    print(folder)
+### NASDAQ Folder Loop & OCR Function Section Start
+## Folder Loop Function Section
+nasdaq_parent_folder = f"{os_path}/images_source/NASDAQ"
+nasdaq_output_folders = loop_through_folders(nasdaq_parent_folder)
+nasdaq_final_path = []
+nasdaq_root_path = "/images_source/NASDAQ/"
+for folder in nasdaq_output_folders:
+    nasdaq_final_path.append(nasdaq_root_path+folder)
+
+## OCR Function Section
+nasdaq_input_directories = nasdaq_final_path
+nasdaq_output_directory = "/output/"
+nasdaq_file_name = "NASDAQ"
+for folder in nasdaq_input_directories:
+    perform_ocr_on(folder, nasdaq_output_directory, nasdaq_file_name)
+    print(f"Worked on {folder}")
+
+## NASDAQ Folder Loop & OCR Function Section End
+
+### NYSE Folder Loop & OCR Function Section Start
+## Folder Loop Function Section
+# nyse_parent_folder = f"{os_path}/images_source/NYSE"
+# nyse_output_folders = loop_through_folders(nyse_parent_folder)
+
+# ## OCR Function Section
+# final_path = []
+# root_path = "/images_source/NYSE/"
+# nyse_output_directory = "/output/"
+# nyse_file_name = "NASDAQ"
+# for folder in nyse_output_folders:
+#     final_path.append(root_path+folder)
+# for path in final_path:
+#     print(path)
+
+### NYSE Folder Loop & OCR Function Section End
+
+
+
