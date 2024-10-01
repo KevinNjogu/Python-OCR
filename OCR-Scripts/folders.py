@@ -8,24 +8,19 @@ Load Environment Variable
 load_dotenv()
 os_path = os.getenv("WORKING_DIRECTORY")
 
+
 def loop_through_folders(parent_folder):
-    """
-    Loops through all subfolders within a given parent folder.
+  """Loops through all subfolders within a given parent folder.
 
-    Args:
-        parent_folder: The path to the parent folder.
-    """
-    print("\n")
-    folders = []
+  Args:
+    parent_folder: The path to the parent folder.
+  """
 
-    for root, dirs, files in os.walk(parent_folder):
-        for dir in dirs:
-            # Do something with each subfolder
-            folders.append(dir)
-    return folders
+  for root, dirs, files in os.walk(parent_folder):
+    for dir in dirs:
+      # Do something with each subfolder
+      print(os.path.join(root, dir))
 
 # Example usage
-parent_folder = f"{os_path}/images_source/NASDAQ/"
-output_folders = loop_through_folders(parent_folder)
-for folder in output_folders:
-    print(folder)
+parent_folder = os_path
+loop_through_folders(parent_folder)
