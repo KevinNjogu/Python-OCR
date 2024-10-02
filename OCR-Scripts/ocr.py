@@ -37,7 +37,8 @@ def perform_ocr_on(input_path, output_path, output_filename):
         2. Perform OCR on the image(s)
         3. Save output to a temporary variable
         4. Write the output as string to a JSON file
-        5. Return the list of images processed in your terminal
+        5. Print the list of images processed in your terminal
+        6. Print the number of images processed in a folder in your terminal
     """ 
 
     ## Create temp variables
@@ -53,6 +54,9 @@ def perform_ocr_on(input_path, output_path, output_filename):
     # Name of output JSON file
     output_json_name = output_filename
 
+    # Number of files counter
+    counter = 0
+
     # Loop for performing OCR on images in the folder
     for file in os.listdir(path=f"{os_path}{input_folder_path}"):
         # Save the current file name and path
@@ -67,6 +71,9 @@ def perform_ocr_on(input_path, output_path, output_filename):
         # Save the output into a separate variable to use for writing into JSON file
         output_string += text_string
 
+        # Increment number of processed files counter
+        counter += 1
+
     ## Writing to JSON file
     with open(f"{os_path}{output_folder_path}{output_json_name}.json", "w") as final:
         json.dump(output_string, final)
@@ -76,77 +83,33 @@ def perform_ocr_on(input_path, output_path, output_filename):
     for file in os.listdir(path=f"{os_path}{input_folder_path}"):
         print(f"{file}\n")
 
+    # Total number of files processed
+    print(f"Number of files processed in {os_path}{input_folder_path} are: \n")
+    print(counter)
+
 
 
 # DOW OCR Processing
-# dow_input_directory = "/images_source/DOW-30/"
-# dow_output_directory = "/output/"
-# dow_file_name = "DOW-30"
-# perform_ocr_on(dow_input_directory, dow_output_directory, dow_file_name)
+dow_input_directory = "/images_source/DOW-30/"
+dow_output_directory = "/output/"
+dow_file_name = "DOW-30"
+perform_ocr_on(dow_input_directory, dow_output_directory, dow_file_name)
 
-# # S&P OCR Processing
-# s_and_p_input_directory = "/images_source/Flaire-—-S&P-500-Companies:-Full-List-and-Performance---NerdWallet/"
-# s_and_p_output_directory = "/output/"
-# s_and_p_file_name = "S&P-500"
-# perform_ocr_on(s_and_p_input_directory, s_and_p_output_directory, s_and_p_file_name)
+# S&P OCR Processing
+s_and_p_input_directory = "/images_source/Flaire-—-S&P-500-Companies:-Full-List-and-Performance---NerdWallet/"
+s_and_p_output_directory = "/output/"
+s_and_p_file_name = "S&P-500"
+perform_ocr_on(s_and_p_input_directory, s_and_p_output_directory, s_and_p_file_name)
 
+# NASDAQ OCR Processing
+nasdaq_input_directory = "/images_source/NASDAQ/"
+nasdaq_output_directory = "/output/"
+nasdaq_file_name = "NASDAQ"
+perform_ocr_on(nasdaq_input_directory, nasdaq_output_directory, nasdaq_file_name)
 
-"""
-Folder Loop Function
-"""
-
-def loop_through_folders(parent_folder):
-    """
-    Loops through all subfolders within a given parent folder.
-
-    Args:
-        parent_folder: The path to the parent folder.
-    """
-    folders = []
-
-    for root, dirs, files in os.walk(parent_folder):
-        for dir in dirs:
-            # Append the full path to root folder containing images
-            folders.append(dir)
-    return folders
-
-### NASDAQ Folder Loop & OCR Function Section Start
-## Folder Loop Function Section
-# nasdaq_parent_folder = f"{os_path}/images_source/NASDAQ"
-# nasdaq_output_folders = loop_through_folders(nasdaq_parent_folder)
-# nasdaq_final_path = []
-# nasdaq_root_path = "/images_source/NASDAQ/"
-# for folder in nasdaq_output_folders:
-#     nasdaq_final_path.append(nasdaq_root_path+folder)
-
-# ## OCR Function Section
-# nasdaq_input_directories = nasdaq_final_path
-# nasdaq_output_directory = "/output/"
-# nasdaq_file_name = "NASDAQ"
-# for folder in nasdaq_input_directories:
-#     perform_ocr_on(folder, nasdaq_output_directory, nasdaq_file_name)
-#     print(f"Worked on {folder}")
-
-## NASDAQ Folder Loop & OCR Function Section End
-
-### NYSE Folder Loop & OCR Function Section Start
-## Folder Loop Function Section
-# nyse_parent_folder = f"{os_path}/images_source/NYSE"
-# nyse_output_folders = loop_through_folders(nyse_parent_folder)
-# nyse_final_path = []
-# nyse_root_path = "/images_source/NYSE/"
-# for folder in nyse_output_folders:
-#     nyse_final_path.append(nyse_root_path+folder)
-
-# ## OCR Function Section
-# nyse_input_directories = nyse_final_path
-# nyse_output_directory = "/output/"
-# nyse_file_name = "NYSE"
-# for folder in nyse_input_directories:
-#     perform_ocr_on(folder, nyse_output_directory, nyse_file_name)
-#     print(f"Worked on {folder}")
-
-### NYSE Folder Loop & OCR Function Section End
-
-
+# NYSE OCR PROCESSING
+nyse_input_directory = "/images_source/NYSE/"
+nyse_output_directory = "/output/"
+nyse_file_name = "NYSE"
+perform_ocr_on(nyse_input_directory, nyse_output_directory, nyse_file_name)
 
