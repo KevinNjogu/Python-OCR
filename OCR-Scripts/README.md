@@ -27,6 +27,10 @@
 4. [How To Create And Use .env Files In Python](https://www.geeksforgeeks.org/how-to-create-and-use-env-files-in-python/)
 5. [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 6. [Python - String Concatenation](https://www.w3schools.com/python/python_strings_concatenate.asp)
+7. [Python | Remove empty strings from list of strings](https://www.geeksforgeeks.org/python-remove-empty-strings-from-list-of-strings/)
+
+    Method 4: Using `filter()` is the most elegant and fastest way to perform this task. This method is highly recommended because *speed matters* when we deal with **large machine learning data set** that may potentially contain empty string.
+
 
 ### Quick Helpful Commands
 1. To activate virtual environment in Windows, run:
