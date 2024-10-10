@@ -1,5 +1,5 @@
 """ 
-Python Delete .DS_Store files
+    Python Delete .DS_Store files
 """
 
 # Import necessary modules
@@ -7,18 +7,19 @@ from dotenv import load_dotenv, dotenv_values
 import os
 
 """
-Load Environment Variable
+    Load Environment Variable
 """
 load_dotenv()
 os_path = os.getenv("WORKING_DIRECTORY")
 
 
 def delete_ds_store_files(root_folder):
-    """Deletes all .DS_Store files within a given root folder and its subfolders.
+    """
+        Deletes all .DS_Store files within a given root folder and its subfolders.
 
-    Args:
-        root_folder: The path to the root folder.
-        """
+        Args:
+            root_folder: The path to the root folder.
+    """
 
     for root, dirs, files in os.walk(root_folder):
         for file in files:

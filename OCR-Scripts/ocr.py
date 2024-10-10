@@ -1,5 +1,5 @@
 """ 
-Python Tesseract Script
+    Python Tesseract Script
 """
 
 # Import necessary modules
@@ -11,34 +11,34 @@ import os
 import json
 
 """
-Load Environment Variable
+    Load Environment Variable
 """
 load_dotenv()
 os_path = os.getenv("WORKING_DIRECTORY")
 
 
 """
-OCR Function
+    OCR Function
 """
 
 def perform_ocr_on(input_path, output_path, output_filename):
     """
-    How to feed in the variables:
-        1. input_path: write the path where the individual images are stored
-                        starting from where the folder after where script is running
-                        up to the image(s) location
-        2. output_path: write the path to where the output should be saved to. It's best
-                        if the folder already exists so that it's saved inside.
-        3. output_filename: the name of the output file containing the string(s). The
-                        function will add the JSON extension for you.
+        How to feed in the variables:
+            1. input_path: write the path where the individual images are stored
+                            starting from where the folder after where script is running
+                            up to the image(s) location
+            2. output_path: write the path to where the output should be saved to. It's best
+                            if the folder already exists so that it's saved inside.
+            3. output_filename: the name of the output file containing the string(s). The
+                            function will add the JSON extension for you.
 
-    Function purpose:
-        1. Loading the image(s) in a folder to perform OCR on
-        2. Perform OCR on the image(s)
-        3. Save output to a temporary variable
-        4. Write the output as string to a JSON file
-        5. Print the list of images processed in your terminal
-        6. Print the number of images processed in a folder in your terminal
+        Function purpose:
+            1. Loading the image(s) in a folder to perform OCR on
+            2. Perform OCR on the image(s)
+            3. Save output to a temporary variable
+            4. Write the output as string to a JSON file
+            5. Print the list of images processed in your terminal
+            6. Print the number of images processed in a folder in your terminal
     """ 
 
     ## Create temp variables

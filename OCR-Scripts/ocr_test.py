@@ -1,5 +1,5 @@
 """ 
-Python Tesseract Test/Demo Script
+    Python Tesseract Test/Demo Script
 """
 
 # Import necessary modules
@@ -11,14 +11,14 @@ import os
 import json
 
 """
-Load Environment Variable
+    Load Environment Variable
 """
 load_dotenv()
 os_path = os.getenv("WORKING_DIRECTORY")
 
 
 """
-Start of Testing ground of the script
+    Start of Testing ground of the script
 """
 
 # Assign variable to name of test image
@@ -34,5 +34,5 @@ text = pytesseract.image_to_string(img1)
 print(text)
 
 """
-End of Testing ground of the script
+    End of Testing ground of the script
 """

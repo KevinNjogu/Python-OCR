@@ -3,17 +3,18 @@ import os
 
 
 """
-Load Environment Variable
+  Load Environment Variable
 """
 load_dotenv()
 os_path = os.getenv("WORKING_DIRECTORY")
 
 
 def loop_through_folders(parent_folder):
-  """Loops through all subfolders within a given parent folder.
+  """
+    Loops through all subfolders within a given parent folder.
 
-  Args:
-    parent_folder: The path to the parent folder.
+    Args:
+      parent_folder: The path to the parent folder.
   """
 
   for root, dirs, files in os.walk(parent_folder):
