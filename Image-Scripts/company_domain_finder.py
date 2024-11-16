@@ -103,13 +103,13 @@ class CompanyDomainFinder:
 def main():
     # Load companies from JSON file
     try:
-        with open('companies.json', 'r') as f:
+        with open('all-companies.json', 'r') as f:
             companies = json.load(f)
     except FileNotFoundError:
-        print("Please create a companies.json file with your company names")
+        print("Please create a json file with your company names")
         return
     except json.JSONDecodeError:
-        print("Invalid JSON format in companies.json")
+        print("Invalid JSON format in json file")
         return
 
     # Process companies
@@ -117,7 +117,7 @@ def main():
     results = finder.process_companies(companies)
     
     # Save results
-    with open('company_domains.json', 'w') as f:
+    with open('all-company-domains.json', 'w') as f:
         json.dump(results, f, indent=2)
     
     # Print results
