@@ -1,0 +1,1173 @@
+[
+    {
+        "company": "Mattersight Corp.",
+        "domain": "mattersight.com",
+        "logo_url": "https://img.logo.dev/mattersight.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/mattersight_com_logo.png",
+        "matched_name": "Mattersight Corporation"
+    },
+    {
+        "company": "Microchip Technology Inc",
+        "domain": "microchip.com",
+        "logo_url": "https://img.logo.dev/microchip.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/microchip_com_logo.png",
+        "matched_name": "Microchip Technology Inc"
+    },
+    {
+        "company": "Microsemi Corp.",
+        "domain": "microsemi.com",
+        "logo_url": "https://img.logo.dev/microsemi.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/microsemi_com_logo.png",
+        "matched_name": "Microsemi Corporation"
+    },
+    {
+        "company": "Microtune ",
+        "domain": "microtune.com",
+        "logo_url": "https://img.logo.dev/microtune.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/microtune_com_logo.png",
+        "matched_name": "Microtune"
+    },
+    {
+        "company": "Microvision",
+        "domain": "microvision.com",
+        "logo_url": "https://img.logo.dev/microvision.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/microvision_com_logo.png",
+        "matched_name": "MicroVision"
+    },
+    {
+        "company": "Nationa",
+        "domain": "weather.gov",
+        "logo_url": "https://img.logo.dev/nationalgridus.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/nationalgridus_com_logo.png",
+        "matched_name": "National Grid"
+    },
+    {
+        "company": "Coal ",
+        "domain": "coalindia.in",
+        "logo_url": "https://img.logo.dev/coalindia.in?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/coalindia_in_logo.png",
+        "matched_name": "Coal India Limited"
+    },
+    {
+        "company": "Commerce Corp.",
+        "domain": "commercecorporate.com",
+        "logo_url": "https://img.logo.dev/commercecorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/commercecorp_com_logo.png",
+        "matched_name": "Commerce Corp"
+    },
+    {
+        "company": "Home Health Care Co ",
+        "domain": "homehealthcareconsultants.com",
+        "logo_url": "https://img.logo.dev/homehealthcareconsultants.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/homehealthcareconsultants_com_logo.png",
+        "matched_name": "21st Century Health Carensultants"
+    },
+    {
+        "company": "Interstate Corp. ",
+        "domain": "interstatecorps.com",
+        "logo_url": "https://img.logo.dev/interstatecorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interstatecorp_com_logo.png",
+        "matched_name": "Interstate Recruiters Corporation"
+    },
+    {
+        "company": "Security Group Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Nationshealth",
+        "domain": "nationshomeinfusion-healthcare.com",
+        "logo_url": "https://img.logo.dev/nationshomeinfusion-healthcare.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/nationshomeinfusion-healthcare_com_logo.png",
+        "matched_name": "NATIONS HEALTHCARE LLC"
+    },
+    {
+        "company": "Inphonic ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Inpixon",
+        "domain": "inpixon.com",
+        "logo_url": "https://img.logo.dev/inpixon.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/inpixon_com_logo.png",
+        "matched_name": "Inpixon"
+    },
+    {
+        "company": "Insight Communications CO",
+        "domain": "insightcommunications.co",
+        "logo_url": "https://img.logo.dev/insightcommunications.co?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/insightcommunications_co_logo.png",
+        "matched_name": "Insight Communications"
+    },
+    {
+        "company": "Insightful Corp ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Insmed Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Insmed, Inc. ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Inspired Entertainment Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Insulet Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Insurance Auto Auctions ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Insure.Com ",
+        "domain": "insure.com",
+        "logo_url": "https://img.logo.dev/insure.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/insure_com_logo.png",
+        "matched_name": "Insure"
+    },
+    {
+        "company": "Jameson Inns",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Iris International, Inc. ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Irvine Sensors ",
+        "domain": "irvine-sensors.com",
+        "logo_url": "https://img.logo.dev/irvine-sensors.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/irvine-sensors_com_logo.png",
+        "matched_name": "Irvine Sensors Corporation"
+    },
+    {
+        "company": "Isco ",
+        "domain": "iscorp.com",
+        "logo_url": "https://img.logo.dev/is.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/is_com_logo.png",
+        "matched_name": "ironSource"
+    },
+    {
+        "company": "Isotec ",
+        "domain": "isotechpl.com",
+        "logo_url": "https://img.logo.dev/isotechdesign.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/isotechdesign_com_logo.png",
+        "matched_name": "ISO TECH DESIGN"
+    },
+    {
+        "company": "Ivillage ",
+        "domain": "ivillageonline.com",
+        "logo_url": "https://img.logo.dev/ivillagetexascity.org?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/ivillagetexascity_org_logo.png",
+        "matched_name": "The Independence Village"
+    },
+    {
+        "company": "Independent Bank ",
+        "domain": "independent-bank.com",
+        "logo_url": "https://img.logo.dev/independent-bank.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/independent-bank_com_logo.png",
+        "matched_name": "Independent Bank Group Inc"
+    },
+    {
+        "company": "Independent Bank Group Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Indus",
+        "domain": "skimlinks.com",
+        "logo_url": "https://img.logo.dev/industriousoffice.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/industriousoffice_com_logo.png",
+        "matched_name": "Industrious"
+    },
+    {
+        "company": "Industrial Logistics Properties Trust",
+        "domain": "ilptreit.com",
+        "logo_url": "https://img.logo.dev/ilptreit.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/ilptreit_com_logo.png",
+        "matched_name": "Industrial Logistics Properties Trust"
+    },
+    {
+        "company": "Inet Technologies, ",
+        "domain": "inetonline.com",
+        "logo_url": "https://img.logo.dev/inettechnologies.ch?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/inettechnologies_ch_logo.png",
+        "matched_name": "iNet Technologies GmbH"
+    },
+    {
+        "company": "NBT Bancorp Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "NI Holdings Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "NIC Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "NN Inc",
+        "domain": "nninc.com",
+        "logo_url": "https://img.logo.dev/nninc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/nninc_com_logo.png",
+        "matched_name": "NN"
+    },
+    {
+        "company": "NU Horizons ",
+        "domain": "nuhorizons.co.za",
+        "logo_url": "https://img.logo.dev/nuhorizons.pl?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/nuhorizons_pl_logo.png",
+        "matched_name": "NU Horizons"
+    },
+    {
+        "company": "NVE Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Mako Surgical Corp. ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Malibu Boats Inc",
+        "domain": "malibuboatsinc.com",
+        "logo_url": "https://img.logo.dev/malibuboatsinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/malibuboatsinc_com_logo.png",
+        "matched_name": "Malibu Boats"
+    },
+    {
+        "company": "Malvern Bancorp Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Manatron ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Mannkind Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Mannatech Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Marchex ",
+        "domain": "marchex.com",
+        "logo_url": "https://img.logo.dev/marchex.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/marchex_com_logo.png",
+        "matched_name": "Marchex"
+    },
+    {
+        "company": "Merchants Bancorp",
+        "domain": "merchantsbancorp.com",
+        "logo_url": "https://img.logo.dev/merchantsbancorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/merchantsbancorp_com_logo.png",
+        "matched_name": "merchantsbancorp.com"
+    },
+    {
+        "company": "Mercury Systems Inc",
+        "domain": "mercurysystemsinc.com",
+        "logo_url": "https://img.logo.dev/mercurysystemsinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/mercurysystemsinc_com_logo.png",
+        "matched_name": "Mercury Systems"
+    },
+    {
+        "company": "Meridian Bioscience Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Meridian Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Merix ",
+        "domain": "merixstudio.com",
+        "logo_url": "https://img.logo.dev/merixstudio.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/merixstudio_com_logo.png",
+        "matched_name": "Merixstudio"
+    },
+    {
+        "company": "Merrill Lynch & CO Arn ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Merrill Lynch & CO Jetblue (IMM)",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Merrill Lynch & CO Srns ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Merrill Lynch & CO. ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Merrill Lynch & CO.",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Meta Materials Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Metal Management",
+        "domain": "metalmanagementsolutions.com",
+        "logo_url": "https://img.logo.dev/metalmanagementsolutions.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/metalmanagementsolutions_com_logo.png",
+        "matched_name": "MetalManagementSolutions"
+    },
+    {
+        "company": "Methanex Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Methes Energies International Ltd",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Methode Electronics ",
+        "domain": "methode.com",
+        "logo_url": "https://img.logo.dev/methode.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/methode_com_logo.png",
+        "matched_name": "Methode Electronics"
+    },
+    {
+        "company": "Metro One Telecommunications ",
+        "domain": "metro1telecomm.com",
+        "logo_url": "https://img.logo.dev/metro1telecomm.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/metro1telecomm_com_logo.png",
+        "matched_name": "Metro One Telecommunications"
+    },
+    {
+        "company": "Marimba, ",
+        "domain": "marimba.team",
+        "logo_url": "https://img.logo.dev/marimba.team?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/marimba_team_logo.png",
+        "matched_name": "Marimba"
+    },
+    {
+        "company": "Market Leader, ",
+        "domain": "marketleader.com",
+        "logo_url": "https://img.logo.dev/marketleader.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/marketleader_com_logo.png",
+        "matched_name": "Market Leader"
+    },
+    {
+        "company": "Marsh Supermarkets",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Marshall & Ilsley Corp ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Martin Midstream Partners LP",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Immersion Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "ImmuCell Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Immuneering Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Immutep Limited",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Imp ",
+        "domain": "impact.com",
+        "logo_url": "https://img.logo.dev/impact.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/impact_com_logo.png",
+        "matched_name": "impact"
+    },
+    {
+        "company": "Impco Technologies ",
+        "domain": "impcotechnologies.com",
+        "logo_url": "https://img.logo.dev/impcotechnologies.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/impcotechnologies_com_logo.png",
+        "matched_name": "IMPCO Technologies Canada Inc"
+    },
+    {
+        "company": "Intricon Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Inventiv Health ",
+        "domain": "inventivhealthclinical.com",
+        "logo_url": "https://img.logo.dev/inventivhealthcommunications.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/inventivhealthcommunications_com_logo.png",
+        "matched_name": "inVentiv Health Communications"
+    },
+    {
+        "company": "Investors Title Company",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Inx ",
+        "domain": "inxpress.com",
+        "logo_url": "https://img.logo.dev/inxeption.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/inxeption_com_logo.png",
+        "matched_name": "INXEPTION"
+    },
+    {
+        "company": "Ipayment ",
+        "domain": "ipaymentsforum.com",
+        "logo_url": "https://img.logo.dev/ipaymentsforum.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/ipaymentsforum_com_logo.png",
+        "matched_name": "IPayments Forum"
+    },
+    {
+        "company": "JW Mays Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "JE Cleantech Holdings Limited",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kendle International Inc. ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Keurig Dr Pepper Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kforce Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kimball Electronics Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kindred Healthcare",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kingold Jewelry Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kinnate Biopharma Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kinsale Capital Group Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kintera ",
+        "domain": "kinterativa.com",
+        "logo_url": "https://img.logo.dev/k9interactive.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/k9interactive_com_logo.png",
+        "matched_name": "K9 Interactive"
+    },
+    {
+        "company": "Kit Digital ",
+        "domain": "kit-digital.com",
+        "logo_url": "https://img.logo.dev/kit-digital.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/kit-digital_com_logo.png",
+        "matched_name": "KIT digital"
+    },
+    {
+        "company": "Zamba ",
+        "domain": "zamba.co",
+        "logo_url": "https://img.logo.dev/zambahvac.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zambahvac_com_logo.png",
+        "matched_name": "ZAMBA"
+    },
+    {
+        "company": "Zap ",
+        "domain": "zappos.com",
+        "logo_url": "https://img.logo.dev/zappos.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zappos_com_logo.png",
+        "matched_name": "Zappos Family of Companies"
+    },
+    {
+        "company": "Zars Pharma ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Zenex International ",
+        "domain": "zenexint.com",
+        "logo_url": "https://img.logo.dev/zenexint.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zenexint_com_logo.png",
+        "matched_name": "Zenex International"
+    },
+    {
+        "company": "Zentek Ltd",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Zila ",
+        "domain": "myzila.com",
+        "logo_url": "https://img.logo.dev/myzila.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/myzila_com_logo.png",
+        "matched_name": "ZILA"
+    },
+    {
+        "company": "Interface, Inc. ",
+        "domain": "interfacinc.com",
+        "logo_url": "https://img.logo.dev/interface-egypt.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interface-egypt_com_logo.png",
+        "matched_name": "Interface incorporated"
+    },
+    {
+        "company": "Interland ",
+        "domain": "inter-land.hr",
+        "logo_url": "https://img.logo.dev/interlandtech.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interlandtech_com_logo.png",
+        "matched_name": "Interland"
+    },
+    {
+        "company": "International Speedway Corporation",
+        "domain": "internationalspeedwaycorporation.com",
+        "logo_url": "https://img.logo.dev/internationalspeedwaycorporation.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/internationalspeedwaycorporation_com_logo.png",
+        "matched_name": "International Speedway Corporation"
+    },
+    {
+        "company": "Internet Commerce ",
+        "domain": "internetcommercesummit.com",
+        "logo_url": "https://img.logo.dev/internetcommerce.org?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/internetcommerce_org_logo.png",
+        "matched_name": "Internet Commerce Association"
+    },
+    {
+        "company": "Interwoven ",
+        "domain": "interwovenap.com",
+        "logo_url": "https://img.logo.dev/interwovenap.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interwovenap_com_logo.png",
+        "matched_name": "Interwoven Asbury Park"
+    },
+    {
+        "company": "Intralinks ",
+        "domain": "intralinks.com",
+        "logo_url": "https://img.logo.dev/intralinks.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/intralinks_com_logo.png",
+        "matched_name": "C Intralinks"
+    },
+    {
+        "company": "Intraware ",
+        "domain": "intraware.com.au",
+        "logo_url": "https://img.logo.dev/intraware.com.au?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/intraware_com_au_logo.png",
+        "matched_name": "Intraware Australia"
+    },
+    {
+        "company": "Omeros Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Omniture ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Oncobiologics, Inc.",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Oncocyte Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Oncolytics Biotech Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Onesource Information Services ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Opinion Research",
+        "domain": "ors.org.uk",
+        "logo_url": "https://img.logo.dev/ors.org.uk?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/ors_org_uk_logo.png",
+        "matched_name": "Opinion Research Services"
+    },
+    {
+        "company": "Mylan ",
+        "domain": "mylan.com",
+        "logo_url": "https://img.logo.dev/mylan.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/mylan_com_logo.png",
+        "matched_name": "MYLAN N"
+    },
+    {
+        "company": "Myogen",
+        "domain": "myogenes.com",
+        "logo_url": "https://img.logo.dev/myogenes.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/myogenes_com_logo.png",
+        "matched_name": "Myogenes"
+    },
+    {
+        "company": "Medicalcv ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Medicore ",
+        "domain": "medicoresponde.com.br",
+        "logo_url": "https://img.logo.dev/medicor.hu?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/medicor_hu_logo.png",
+        "matched_name": "MEDICOR Elektronika Zrt"
+    },
+    {
+        "company": "Medimmune ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Medwave ",
+        "domain": "medwave.cl",
+        "logo_url": "https://img.logo.dev/medwave.nl?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/medwave_nl_logo.png",
+        "matched_name": "MedWave Clinical Research"
+    },
+    {
+        "company": "Long Island Financial ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Longeveron Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Ltx ",
+        "domain": "ltx.pt",
+        "logo_url": "https://img.logo.dev/ltx.pt?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/ltx_pt_logo.png",
+        "matched_name": "LTX"
+    },
+    {
+        "company": "LuxUrban Hotels Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Menlo Therapeutics Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Mer Lyn",
+        "domain": "merlyn.be",
+        "logo_url": "https://img.logo.dev/merlyn.org?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/merlyn_org_logo.png",
+        "matched_name": "Merlyn for Education"
+    },
+    {
+        "company": "Mercator Software ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Mercer International Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "OceanPal Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Oclaro ",
+        "domain": "oclaro.com",
+        "logo_url": "https://img.logo.dev/oclaro.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/oclaro_com_logo.png",
+        "matched_name": "Bookham"
+    },
+    {
+        "company": "Odyssey Healthcare ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Ohio Casualty ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Oilgear",
+        "domain": "oilgear.com",
+        "logo_url": "https://img.logo.dev/oilgear.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/oilgear_com_logo.png",
+        "matched_name": "Oilgear"
+    },
+    {
+        "company": "Ol",
+        "domain": "almanac.com",
+        "logo_url": "https://img.logo.dev/olx.ua?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/olx_ua_logo.png",
+        "matched_name": "OLX \u0420\u043e\u0431\u043e\u0442\u0430"
+    },
+    {
+        "company": "Omega Financial ",
+        "domain": "omegafinancial.co.in",
+        "logo_url": "https://img.logo.dev/omega3fg.com.au?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/omega3fg_com_au_logo.png",
+        "matched_name": "Omega 3 Financial Group Pty Ltd"
+    },
+    {
+        "company": "Hycroft Mining Holding Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Hydra Industries Acquisition Corp.",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Hydril ",
+        "domain": "hydrillagear.com",
+        "logo_url": "https://img.logo.dev/hydril.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/hydril_com_logo.png",
+        "matched_name": "Hydril Pressure Control Canada"
+    },
+    {
+        "company": "Hyperion Solutions ",
+        "domain": "hyperionsolutions.es",
+        "logo_url": "https://img.logo.dev/hyperionsolutions.es?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/hyperionsolutions_es_logo.png",
+        "matched_name": "Hyperion Solutions S"
+    },
+    {
+        "company": "Integral Acquisition Corporation 1",
+        "domain": "integralacquisition.com",
+        "logo_url": "https://img.logo.dev/integralacquisition.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/integralacquisition_com_logo.png",
+        "matched_name": "Integral Acquisition Corporation 1"
+    },
+    {
+        "company": "Integrated Circuit Systems ",
+        "domain": "icsnh3.com",
+        "logo_url": "https://img.logo.dev/icsnh3.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/icsnh3_com_logo.png",
+        "matched_name": "Integrated Circuit Systems,"
+    },
+    {
+        "company": "Integrity Financial ",
+        "domain": "integrityofidaho.com",
+        "logo_url": "https://img.logo.dev/integrityofidaho.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/integrityofidaho_com_logo.png",
+        "matched_name": "Integrity Financial Corporation"
+    },
+    {
+        "company": "Intel Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Inter Parfums Inc",
+        "domain": "interparfumsinc.com",
+        "logo_url": "https://img.logo.dev/interparfumsinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interparfumsinc_com_logo.png",
+        "matched_name": "Interparfums"
+    },
+    {
+        "company": "Interactive Health ",
+        "domain": "interactivehealthclinic.com",
+        "logo_url": "https://img.logo.dev/interactivehealthclinic.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interactivehealthclinic_com_logo.png",
+        "matched_name": "Interactive Health Clinic"
+    },
+    {
+        "company": "Interchange",
+        "domain": "interchangefinancial.com",
+        "logo_url": "https://img.logo.dev/interchangefx.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interchangefx_com_logo.png",
+        "matched_name": "Interchange"
+    },
+    {
+        "company": "Interdigital ",
+        "domain": "interdigital.com",
+        "logo_url": "https://img.logo.dev/interdigital.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interdigital_com_logo.png",
+        "matched_name": "InterDigital"
+    },
+    {
+        "company": "Interface Inc",
+        "domain": "interfacinc.com",
+        "logo_url": "https://img.logo.dev/interface-egypt.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/interface-egypt_com_logo.png",
+        "matched_name": "Interface incorporated"
+    },
+    {
+        "company": "KIx Inc.",
+        "domain": "kixinc.com",
+        "logo_url": "https://img.logo.dev/kixinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/kixinc_com_logo.png",
+        "matched_name": "INC"
+    },
+    {
+        "company": "Knape & Vogt Manufacturing ",
+        "domain": "knapeandvogt.com",
+        "logo_url": "https://img.logo.dev/knapeandvogt.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/knapeandvogt_com_logo.png",
+        "matched_name": "Knape"
+    },
+    {
+        "company": "Kolibri Global Energy Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Komag ",
+        "domain": "kom.pe",
+        "logo_url": "https://img.logo.dev/komage.de?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/komage_de_logo.png",
+        "matched_name": "KOMAGE Gellner Maschinenfabrik KG"
+    },
+    {
+        "company": "Kongzhong Corp.",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kopin Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kornit Digital Ltd",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Koss Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Ksw ",
+        "domain": "kswiss.com",
+        "logo_url": "https://img.logo.dev/ks-wealth.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/ks-wealth_com_logo.png",
+        "matched_name": "KS Wealth Advisors"
+    },
+    {
+        "company": "Kyphon ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "KINS Technology Group Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "KWESST Micro Systems Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Kalvista Pharmaceuticals ",
+        "domain": "kalvista.com",
+        "logo_url": "https://img.logo.dev/kalvista.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/kalvista_com_logo.png",
+        "matched_name": "KalVista Pharmaceuticals"
+    },
+    {
+        "company": "Kaman ",
+        "domain": "kamanasewabank.com",
+        "logo_url": "https://img.logo.dev/kaman.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/kaman_com_logo.png",
+        "matched_name": "Kaman Corporation"
+    },
+    {
+        "company": "Kapstone Paper & Packaging ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Karyopharm Therapeutics Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Zilog ",
+        "domain": "zilog.com",
+        "logo_url": "https://img.logo.dev/zilog.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zilog_com_logo.png",
+        "matched_name": "Zilog"
+    },
+    {
+        "company": "Ziprealty ",
+        "domain": "ziprealty.com",
+        "logo_url": "https://img.logo.dev/ziprealty.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/ziprealty_com_logo.png",
+        "matched_name": "ZipRealty"
+    },
+    {
+        "company": "Zix Corp",
+        "domain": "zixcorporation.com",
+        "logo_url": "https://img.logo.dev/zixcorporation.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zixcorporation_com_logo.png",
+        "matched_name": "ZIX Corporation"
+    },
+    {
+        "company": "Zoll Medical Corp. ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Zomax",
+        "domain": "corneliusdammrich.com",
+        "logo_url": "https://img.logo.dev/zomax-audio.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zomax-audio_com_logo.png",
+        "matched_name": "Zomax Pro"
+    },
+    {
+        "company": "Zonagen ",
+        "domain": "zonagency.com",
+        "logo_url": "https://img.logo.dev/zonagency.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zonagency_com_logo.png",
+        "matched_name": "ZON"
+    },
+    {
+        "company": "Zones ",
+        "domain": "zones.com",
+        "logo_url": "https://img.logo.dev/zones.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/zones_com_logo.png",
+        "matched_name": "Zones"
+    },
+    {
+        "company": "ZyVersa Therapeutics Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Zymeworks Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Zynex Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Heritage Oaks Bancorp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "High Tide Inc",
+        "domain": "hightideinc.com",
+        "logo_url": "https://img.logo.dev/hightideinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/hightideinc_com_logo.png",
+        "matched_name": "High Tide Inc"
+    },
+    {
+        "company": "Highpower International Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Hill Intl ",
+        "domain": "hillintl.com",
+        "logo_url": "https://img.logo.dev/hillintl.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/hillintl_com_logo.png",
+        "matched_name": "Hill International"
+    },
+    {
+        "company": "Hingham Institution for Savings",
+        "domain": "hinghamsavings.com",
+        "logo_url": "https://img.logo.dev/hinghamsavings.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/hinghamsavings_com_logo.png",
+        "matched_name": "Hingham Institution for Savings"
+    },
+    {
+        "company": "HireQuest Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Hireright ",
+        "domain": "hireright.com",
+        "logo_url": "https://img.logo.dev/hireright.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/hireright_com_logo.png",
+        "matched_name": "HireRight"
+    },
+    {
+        "company": "Hirsch International ",
+        "domain": "hirsch-international.com",
+        "logo_url": "https://img.logo.dev/hirsch-international.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/hirsch-international_com_logo.png",
+        "matched_name": "Hirsch International GmbH"
+    },
+    {
+        "company": "Histogen Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Hollywood Entertainment ",
+        "domain": "hetfest.com",
+        "logo_url": "https://img.logo.dev/bardothollywood.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/bardothollywood_com_logo.png",
+        "matched_name": "HOLLYWOOD ENTERTAINMENT PARTNERS,"
+    },
+    {
+        "company": "Home Federal Bancorp ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Home Loan Financial ",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Home Plate Acquisition Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Limoneira Company",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Lipocine Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Liquid Audio ",
+        "domain": "liquidaudio.com.au",
+        "logo_url": "https://img.logo.dev/liquidaudio.us?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/liquidaudio_us_logo.png",
+        "matched_name": "Liquid Audio"
+    },
+    {
+        "company": "Liquidia Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Live Ventures Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Livedeal ",
+        "domain": "livedeal.com",
+        "logo_url": "https://img.logo.dev/livedeal.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/livedeal_com_logo.png",
+        "matched_name": "LiveDeal"
+    },
+    {
+        "company": "Lkq Corp. ",
+        "domain": "lkqcorp.com",
+        "logo_url": "https://img.logo.dev/lkqcorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/lkqcorp_com_logo.png",
+        "matched_name": "LKQ Corporation"
+    },
+    {
+        "company": "Locateplus",
+        "domain": "locateplus.com",
+        "logo_url": "https://img.logo.dev/locateplus.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/locateplus_com_logo.png",
+        "matched_name": "LocatePLUS"
+    },
+    {
+        "company": "LogMeIn Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Logicvision ",
+        "domain": "logicvision.nl",
+        "logo_url": "https://img.logo.dev/logicvision.nl?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/logicvision_nl_logo.png",
+        "matched_name": "Logic Vision B"
+    },
+    {
+        "company": "Logility ",
+        "domain": "logility.com",
+        "logo_url": "https://img.logo.dev/logility.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/logility_com_logo.png",
+        "matched_name": "Logility"
+    },
+    {
+        "company": "Logmein",
+        "domain": "logmein.com",
+        "logo_url": "https://img.logo.dev/logmein.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-3001-4000/logos/logmein_com_logo.png",
+        "matched_name": "LogMeIn Central"
+    }
+]

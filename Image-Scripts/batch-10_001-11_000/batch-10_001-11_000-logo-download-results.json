@@ -1,0 +1,1011 @@
+[
+    {
+        "company": "Bowlero Corp",
+        "domain": "bowlerocorp.com",
+        "logo_url": "https://img.logo.dev/bowlerocorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/bowlerocorp_com_logo.png",
+        "matched_name": "Bowlero Corporation"
+    },
+    {
+        "company": "Box Inc",
+        "domain": "boxincapital.com",
+        "logo_url": "https://img.logo.dev/boxincapital.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/boxincapital_com_logo.png",
+        "matched_name": "Boxin Capital"
+    },
+    {
+        "company": "Brady Corp",
+        "domain": "bradyid.com.sg",
+        "logo_url": "https://img.logo.dev/bradyid.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/bradyid_com_logo.png",
+        "matched_name": "Brady Corporation"
+    },
+    {
+        "company": "Brandywine Realty Trust",
+        "domain": "brandywinerealty.com",
+        "logo_url": "https://img.logo.dev/brandywinerealty.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/brandywinerealty_com_logo.png",
+        "matched_name": "Brandywine Realty Trust"
+    },
+    {
+        "company": "Capri Holdings Limited",
+        "domain": "capriholdings.com",
+        "logo_url": "https://img.logo.dev/capriholdings.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/capriholdings_com_logo.png",
+        "matched_name": "Capri Holdings Limited"
+    },
+    {
+        "company": "Capstead Mortgage Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Carlisle Companies Inc",
+        "domain": "carlisle.com",
+        "logo_url": "https://img.logo.dev/carlisle.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/carlisle_com_logo.png",
+        "matched_name": "Carlisle Companies Incorporated"
+    },
+    {
+        "company": "Carnival Corp",
+        "domain": "carnivalcorp.com",
+        "logo_url": "https://img.logo.dev/carnivalcorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/carnivalcorp_com_logo.png",
+        "matched_name": "Carnival Corporation"
+    },
+    {
+        "company": "Carpenter Technology Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Carters Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "ClearWater Paper Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Cleco Corp.",
+        "domain": "clecocorp.com",
+        "logo_url": "https://img.logo.dev/clecocorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/clecocorp_com_logo.png",
+        "matched_name": "Cleco Corporation"
+    },
+    {
+        "company": "UGI Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "US Bancorp",
+        "domain": "usbancorpassetmanagement.com",
+        "logo_url": "https://img.logo.dev/usbancorpassetmanagement.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/usbancorpassetmanagement_com_logo.png",
+        "matched_name": "Bancorp Asset Management"
+    },
+    {
+        "company": "USANA Health Sciences",
+        "domain": "usana.com",
+        "logo_url": "https://img.logo.dev/usana.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/usana_com_logo.png",
+        "matched_name": "USANA Health Sciences"
+    },
+    {
+        "company": "USD Partners LP",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "USHG Acquisition Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Ubiquiti Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Ucp",
+        "domain": "uc.pt",
+        "logo_url": "https://img.logo.dev/ucps.k12.nc.us?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/ucps_k12_nc_us_logo.png",
+        "matched_name": "Unionunty Public Schools"
+    },
+    {
+        "company": "UniFirst Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Unit Corp",
+        "domain": "unitcorp.com",
+        "logo_url": "https://img.logo.dev/unitcorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/unitcorp_com_logo.png",
+        "matched_name": "Unit Drilling Company"
+    },
+    {
+        "company": "United Parks & Resorts Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "United Rentals",
+        "domain": "unitedrentals.com",
+        "logo_url": "https://img.logo.dev/unitedrentals.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/unitedrentals_com_logo.png",
+        "matched_name": "United Rentals"
+    },
+    {
+        "company": "Del Monte Foods Co.",
+        "domain": "delmontefoods.com",
+        "logo_url": "https://img.logo.dev/delmontefoods.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/delmontefoods_com_logo.png",
+        "matched_name": "Del Monte Foods"
+    },
+    {
+        "company": "Delwinds Insurance Acquisition Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Denbury Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Diamond S Shipping Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Diana Shipping Inc",
+        "domain": "dianashippinginc.com",
+        "logo_url": "https://img.logo.dev/dianashippinginc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/dianashippinginc_com_logo.png",
+        "matched_name": "Diana Shipping Inc"
+    },
+    {
+        "company": "Digitalglobe,",
+        "domain": "dgsworld.com",
+        "logo_url": "https://img.logo.dev/dgsworld.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/dgsworld_com_logo.png",
+        "matched_name": "Digital Globe Services"
+    },
+    {
+        "company": "Dole plc",
+        "domain": "doleplc.com",
+        "logo_url": "https://img.logo.dev/doleplc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/doleplc_com_logo.png",
+        "matched_name": "Dole plc"
+    },
+    {
+        "company": "Rogers Corp",
+        "domain": "rogerscorp.com",
+        "logo_url": "https://img.logo.dev/rogerscorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/rogerscorp_com_logo.png",
+        "matched_name": "Rogers Corporation"
+    },
+    {
+        "company": "Ross Acquisition Corp II",
+        "domain": "rossacquisition2.com",
+        "logo_url": "https://img.logo.dev/rossacquisition2.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/rossacquisition2_com_logo.png",
+        "matched_name": "Ross Acquisition Corp II"
+    },
+    {
+        "company": "Royal Caribbean Group",
+        "domain": "royalcaribbeangroup.com",
+        "logo_url": "https://img.logo.dev/royalcaribbeangroup.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/royalcaribbeangroup_com_logo.png",
+        "matched_name": "Royal Caribbean Group"
+    },
+    {
+        "company": "Clorox Co",
+        "domain": "clorox.com",
+        "logo_url": "https://img.logo.dev/clorox.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/clorox_com_logo.png",
+        "matched_name": "Taft Production"
+    },
+    {
+        "company": "Coca Cola Company",
+        "domain": "coca-colacompany.com",
+        "logo_url": "https://img.logo.dev/coca-colacompany.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/coca-colacompany_com_logo.png",
+        "matched_name": "Cola Company"
+    },
+    {
+        "company": "Cohen & Steers Real Estate Opportunities and Income Fund",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Coherent Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Carvana Co",
+        "domain": "carvana.com",
+        "logo_url": "https://img.logo.dev/carvana.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/carvana_com_logo.png",
+        "matched_name": "Carvana"
+    },
+    {
+        "company": "Cato Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Cdi Corp.",
+        "domain": "cdi-japan.co.jp",
+        "logo_url": "https://img.logo.dev/cdiengineeringsolutions.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/cdiengineeringsolutions_com_logo.png",
+        "matched_name": "CDI Engineering Solutions"
+    },
+    {
+        "company": "Q2 Holdings Inc",
+        "domain": "qholdingsinc.com",
+        "logo_url": "https://img.logo.dev/qholdingsinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/qholdingsinc_com_logo.png",
+        "matched_name": "Q Holdings Inc"
+    },
+    {
+        "company": "QTS Realty Trust Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Quaker Houghton",
+        "domain": "quakerhoughton.com",
+        "logo_url": "https://img.logo.dev/quakerhoughton.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/quakerhoughton_com_logo.png",
+        "matched_name": "Quaker Houghton"
+    },
+    {
+        "company": "Brunswick Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Build Acquisition Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Citizens Inc",
+        "domain": "citizensinc.com",
+        "logo_url": "https://img.logo.dev/citizensinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/citizensinc_com_logo.png",
+        "matched_name": "Citizens Inc"
+    },
+    {
+        "company": "Cango Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Stoneridge Inc",
+        "domain": "stoneridgeinc.ca",
+        "logo_url": "https://img.logo.dev/stoneridgeinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/stoneridgeinc_com_logo.png",
+        "matched_name": "STONERIDGE"
+    },
+    {
+        "company": "Stride Inc",
+        "domain": "stridein.com",
+        "logo_url": "https://img.logo.dev/strideinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/strideinc_com_logo.png",
+        "matched_name": "Stride"
+    },
+    {
+        "company": "Suffolk Bancorp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Sunoco LP",
+        "domain": "sunocolp.com",
+        "logo_url": "https://img.logo.dev/sunocolp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/sunocolp_com_logo.png",
+        "matched_name": "Sunoco LP"
+    },
+    {
+        "company": "Switch Inc",
+        "domain": "switch.ca",
+        "logo_url": "https://img.logo.dev/switch.ca?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/switch_ca_logo.png",
+        "matched_name": "Switch Incorporated"
+    },
+    {
+        "company": "Universal Corp",
+        "domain": "universalcorp.com",
+        "logo_url": "https://img.logo.dev/universalcorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/universalcorp_com_logo.png",
+        "matched_name": "Universal Leaf Tobacco Company"
+    },
+    {
+        "company": "Universal Insurance Holdings Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Unum Group",
+        "domain": "unumgroup.com",
+        "logo_url": "https://img.logo.dev/unumgroup.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/unumgroup_com_logo.png",
+        "matched_name": "Union Mutual Life Insurance"
+    },
+    {
+        "company": "UpHealth Inc",
+        "domain": "uphealthinc.com",
+        "logo_url": "https://img.logo.dev/uphealthinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/uphealthinc_com_logo.png",
+        "matched_name": "UpHealth"
+    },
+    {
+        "company": "Global Industrial Company",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Global Payments Inc",
+        "domain": "globalpaymentsinc.com",
+        "logo_url": "https://img.logo.dev/globalpayments.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/globalpayments_com_logo.png",
+        "matched_name": "Global Payments Inc"
+    },
+    {
+        "company": "Golden Falcon Acquisition Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Graham Corp",
+        "domain": "grahamcc.com",
+        "logo_url": "https://img.logo.dev/grahamcc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/grahamcc_com_logo.png",
+        "matched_name": "Graham Corporate Communications Inc"
+    },
+    {
+        "company": "Gramercy Property Trust",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "interest",
+        "domain": "interestingengineering.com",
+        "logo_url": "https://img.logo.dev/interestingengineering.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/interestingengineering_com_logo.png",
+        "matched_name": "Interesting Engineering"
+    },
+    {
+        "company": "DHI Group Inc",
+        "domain": "dhigroupinc.com",
+        "logo_url": "https://img.logo.dev/dhigroupinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/dhigroupinc_com_logo.png",
+        "matched_name": "DHI Group"
+    },
+    {
+        "company": "Dana Incorporated",
+        "domain": "dana.com.ar",
+        "logo_url": "https://img.logo.dev/dana.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/dana_com_logo.png",
+        "matched_name": "Dana Incorporated"
+    },
+    {
+        "company": "Danaher Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Green Dot Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Griffon Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "System1 Inc",
+        "domain": "system1inc.com",
+        "logo_url": "https://img.logo.dev/system1inc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/system1inc_com_logo.png",
+        "matched_name": "System 1"
+    },
+    {
+        "company": "Cabelas",
+        "domain": "cabelas.com",
+        "logo_url": "https://img.logo.dev/cabelas.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/cabelas_com_logo.png",
+        "matched_name": "Cabela"
+    },
+    {
+        "company": "Cabot Corp",
+        "domain": "cabotcorp.com",
+        "logo_url": "https://img.logo.dev/cabotcorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/cabotcorp_com_logo.png",
+        "matched_name": "Cabot Corporation"
+    },
+    {
+        "company": "Cactus Inc",
+        "domain": "cactusinc.com",
+        "logo_url": "https://img.logo.dev/cactusinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/cactusinc_com_logo.png",
+        "matched_name": "Cactus"
+    },
+    {
+        "company": "Cadence Bank",
+        "domain": "cadencebank.com",
+        "logo_url": "https://img.logo.dev/cadencebank.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/cadencebank_com_logo.png",
+        "matched_name": "Cadence Bank"
+    },
+    {
+        "company": "Caliber Home Loans Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Callaway Golf Co",
+        "domain": "callawaygolf.com",
+        "logo_url": "https://img.logo.dev/callawaygolf.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/callawaygolf_com_logo.png",
+        "matched_name": "Callaway Golf"
+    },
+    {
+        "company": "Cameco Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "China Fund Inc",
+        "domain": "chinafundinc.com",
+        "logo_url": "https://img.logo.dev/chinafundinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/chinafundinc_com_logo.png",
+        "matched_name": "China Fund Inc"
+    },
+    {
+        "company": "Colgate Palmolive Co",
+        "domain": "colgatepalmolive.com",
+        "logo_url": "https://img.logo.dev/colgatepalmolive.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/colgatepalmolive_com_logo.png",
+        "matched_name": "Colgate"
+    },
+    {
+        "company": "Colombier Acquisition Corp",
+        "domain": "colombierspac.com",
+        "logo_url": "https://img.logo.dev/colombierspac.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/colombierspac_com_logo.png",
+        "matched_name": "Colombier Acquisition Corp"
+    },
+    {
+        "company": "Reliance Inc",
+        "domain": "reliance-inc.co.jp",
+        "logo_url": "https://img.logo.dev/re-lianceinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/re-lianceinc_com_logo.png",
+        "matched_name": "Reliance InC"
+    },
+    {
+        "company": "Retail Value Inc",
+        "domain": "retailvalueinc.com",
+        "logo_url": "https://img.logo.dev/retailvalueinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/retailvalueinc_com_logo.png",
+        "matched_name": "Retail Value Inc"
+    },
+    {
+        "company": "Rexnord Corporation",
+        "domain": "rexnordcorporation.com",
+        "logo_url": "https://img.logo.dev/rexnordcorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/rexnordcorp_com_logo.png",
+        "matched_name": "Rexnord Corporation"
+    },
+    {
+        "company": "Reynolds American",
+        "domain": "reynoldsamerican.com",
+        "logo_url": "https://img.logo.dev/reynoldsamerican.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/reynoldsamerican_com_logo.png",
+        "matched_name": "Reynolds American Inc"
+    },
+    {
+        "company": "Rigel Resource Acquisition Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "G&P Acquisition Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "GE Aerospace",
+        "domain": "geaerospace.com",
+        "logo_url": "https://img.logo.dev/geaerospace.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/geaerospace_com_logo.png",
+        "matched_name": "GE Aerospace"
+    },
+    {
+        "company": "GFL Environmental Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "GMS Inc",
+        "domain": "gmsinc.net",
+        "logo_url": "https://img.logo.dev/gmsinc.net?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/gmsinc_net_logo.png",
+        "matched_name": "GMS"
+    },
+    {
+        "company": "GP Strategies Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Donaldson Co",
+        "domain": "donaldson.com",
+        "logo_url": "https://img.logo.dev/donaldson.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/donaldson_com_logo.png",
+        "matched_name": "Donaldson"
+    },
+    {
+        "company": "Dover Corp",
+        "domain": "dovercorporation.com",
+        "logo_url": "https://img.logo.dev/dovercorporation.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/dovercorporation_com_logo.png",
+        "matched_name": "Dover Corporation"
+    },
+    {
+        "company": "Veritiv Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Vestis Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Vicarious Surgical Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Vici Properties Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Victoria's Secret and Co",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Vine Energy Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Vishay Intertechnology",
+        "domain": "vishay.com",
+        "logo_url": "https://img.logo.dev/vishay.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/vishay_com_logo.png",
+        "matched_name": "Vishay Intertechnology"
+    },
+    {
+        "company": "Vista Outdoor Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Vistra Corp",
+        "domain": "vistracorp.com",
+        "logo_url": "https://img.logo.dev/vistracorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/vistracorp_com_logo.png",
+        "matched_name": "Vistra Corp"
+    },
+    {
+        "company": "Volta Inc",
+        "domain": "voltainc.com",
+        "logo_url": "https://img.logo.dev/voltainc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/voltainc_com_logo.png",
+        "matched_name": "Volta"
+    },
+    {
+        "company": "Vornado Realty Trust",
+        "domain": "vno.com",
+        "logo_url": "https://img.logo.dev/vno.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/vno_com_logo.png",
+        "matched_name": "Vornado Realty Trust"
+    },
+    {
+        "company": "Vtti Energy Partners LP",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Vulcan Materials",
+        "domain": "vulcanmaterials.com",
+        "logo_url": "https://img.logo.dev/vulcanmaterials.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/vulcanmaterials_com_logo.png",
+        "matched_name": "Vulcan Materials Company"
+    },
+    {
+        "company": "Ducommun Inc",
+        "domain": "ducommun.com",
+        "logo_url": "https://img.logo.dev/ducommun.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/ducommun_com_logo.png",
+        "matched_name": "Ducommun Incorporated"
+    },
+    {
+        "company": "Duke Energy Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Raytheon Co",
+        "domain": "raytheon.co.uk",
+        "logo_url": "https://img.logo.dev/raytheon.co.uk?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/raytheon_co_uk_logo.png",
+        "matched_name": "Raytheon UK"
+    },
+    {
+        "company": "Reald",
+        "domain": "real-debrid.com",
+        "logo_url": "https://img.logo.dev/realdecoy.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/realdecoy_com_logo.png",
+        "matched_name": "RealDecoy"
+    },
+    {
+        "company": "Realty Income Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Reddit Inc",
+        "domain": "redditinc.com",
+        "logo_url": "https://img.logo.dev/redditinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/redditinc_com_logo.png",
+        "matched_name": "Reddit"
+    },
+    {
+        "company": "Regional Management Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Regis Corp",
+        "domain": "regiscorp.com",
+        "logo_url": "https://img.logo.dev/regiscorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/regiscorp_com_logo.png",
+        "matched_name": "Regis Corporation"
+    },
+    {
+        "company": "C&J Energy Services Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "C&J Energy Services, Ltd.",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "C3 Al Inc",
+        "domain": "calincoffee.com",
+        "logo_url": "https://img.logo.dev/calincoffee.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/calincoffee_com_logo.png",
+        "matched_name": "Calin Coffee"
+    },
+    {
+        "company": "CBIZ Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Compass Diversified",
+        "domain": "compassdiversified.com",
+        "logo_url": "https://img.logo.dev/compassdiversified.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/compassdiversified_com_logo.png",
+        "matched_name": "Compass Diversified"
+    },
+    {
+        "company": "Compass Inc",
+        "domain": "compassinc.org.au",
+        "logo_url": "https://img.logo.dev/compassinc.org.au?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/compassinc_org_au_logo.png",
+        "matched_name": "Compass"
+    },
+    {
+        "company": "ConocoPhillips",
+        "domain": "conocophillips.com",
+        "logo_url": "https://img.logo.dev/conocophillips.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/conocophillips_com_logo.png",
+        "matched_name": "ConocoPhillips"
+    },
+    {
+        "company": "COPT Defense Properties",
+        "domain": "copt.com",
+        "logo_url": "https://img.logo.dev/copt.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/copt_com_logo.png",
+        "matched_name": "COPT Defense Properties"
+    },
+    {
+        "company": "CTS Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Corning Inc",
+        "domain": "corning.com",
+        "logo_url": "https://img.logo.dev/corning.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/corning_com_logo.png",
+        "matched_name": "Corning Incorporated"
+    },
+    {
+        "company": "Coty Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Apollo Residential Mortgage, Inc.",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Aramark",
+        "domain": "aramark.com",
+        "logo_url": "https://img.logo.dev/aramark.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/aramark_com_logo.png",
+        "matched_name": "Aramark"
+    },
+    {
+        "company": "ArcelorMittal",
+        "domain": "arcelormittal.com",
+        "logo_url": "https://img.logo.dev/arcelormittal.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/arcelormittal_com_logo.png",
+        "matched_name": "ArcelorMittal"
+    },
+    {
+        "company": "Arcosa Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Gap Inc",
+        "domain": "gapinc.com",
+        "logo_url": "https://img.logo.dev/gapinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/gapinc_com_logo.png",
+        "matched_name": "Gap Inc"
+    },
+    {
+        "company": "GasLog Ltd",
+        "domain": "gaslogltd.com",
+        "logo_url": "https://img.logo.dev/gaslogltd.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/gaslogltd_com_logo.png",
+        "matched_name": "GasLog Ltd"
+    },
+    {
+        "company": "V2X Inc",
+        "domain": "vx-inc.com",
+        "logo_url": "https://img.logo.dev/vx-inc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/vx-inc_com_logo.png",
+        "matched_name": "VX Inc"
+    },
+    {
+        "company": "VTEX",
+        "domain": "vtex.com",
+        "logo_url": "https://img.logo.dev/vtex.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/vtex_com_logo.png",
+        "matched_name": "VTEX"
+    },
+    {
+        "company": "Valhi Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Valmont Industries",
+        "domain": "valmont.com",
+        "logo_url": "https://img.logo.dev/valmont.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/valmont_com_logo.png",
+        "matched_name": "Valmont Industries"
+    },
+    {
+        "company": "Varian Medical System",
+        "domain": "varian.com",
+        "logo_url": "https://img.logo.dev/fox59.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/fox59_com_logo.png",
+        "matched_name": "Varian Medical Systems"
+    },
+    {
+        "company": "Vector Group Ltd",
+        "domain": "vectorgroupltd.com",
+        "logo_url": "https://img.logo.dev/vectorgroupltd.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/vectorgroupltd_com_logo.png",
+        "matched_name": "Vector Group LTD"
+    },
+    {
+        "company": "Venator Materials PLC",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Genesco Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Genius Group Limited",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Genuine Parts Co",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Georgia Power Company",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Getty Realty Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Glaukos Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Ardmore Shipping Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Ares Management Co",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Argan Inc",
+        "domain": "arganinc.com",
+        "logo_url": "https://img.logo.dev/arganinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/arganinc_com_logo.png",
+        "matched_name": "Argan"
+    },
+    {
+        "company": "Arista Networks",
+        "domain": "arista.com",
+        "logo_url": "https://img.logo.dev/arista.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/arista_com_logo.png",
+        "matched_name": "Arista Networks"
+    },
+    {
+        "company": "Arlington Asset Investment Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "RB Global Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "RH",
+        "domain": "rhymezone.com",
+        "logo_url": "https://img.logo.dev/rh.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/rh_com_logo.png",
+        "matched_name": "RH"
+    },
+    {
+        "company": "RLI Corp",
+        "domain": "rlicorp.com",
+        "logo_url": "https://img.logo.dev/rlicorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/rlicorp_com_logo.png",
+        "matched_name": "RLI"
+    },
+    {
+        "company": "RLJ Lodging Trust",
+        "domain": "rljlodgingtrust.com",
+        "logo_url": "https://img.logo.dev/rljlodgingtrust.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/rljlodgingtrust_com_logo.png",
+        "matched_name": "RLJ Lodging Trust"
+    },
+    {
+        "company": "ROYAL & SUN ALLIANCE INS",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "RPC Inc",
+        "domain": "rpcinc.com",
+        "logo_url": "https://img.logo.dev/rpcinc.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/rpcinc_com_logo.png",
+        "matched_name": "Rob Pelletiernstruction"
+    },
+    {
+        "company": "RPT Realty",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Container Store Group Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "CBS Corp",
+        "domain": "cbs-consulting.com",
+        "logo_url": "https://img.logo.dev/paramount.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/paramount_com_logo.png",
+        "matched_name": "Paramount"
+    },
+    {
+        "company": "CBX",
+        "domain": "cbx.com",
+        "logo_url": "https://img.logo.dev/cbx.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/cbx_com_logo.png",
+        "matched_name": "CBX"
+    },
+    {
+        "company": "CGI Inc",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Main Street Capital Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "ManpowerGroup",
+        "domain": "manpowergroup.com",
+        "logo_url": "https://img.logo.dev/manpowergroup.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/manpowergroup_com_logo.png",
+        "matched_name": "ManpowerGroup"
+    },
+    {
+        "company": "Marathon Oil Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Marathon Petroleum Corporation",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Marcus Corp",
+        "domain": "marcuscorp.com",
+        "logo_url": "https://img.logo.dev/marcuscorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/marcuscorp_com_logo.png",
+        "matched_name": "The Marcus Corporation"
+    },
+    {
+        "company": "Marine Products Corp",
+        "domain": "marineproductscorp.com",
+        "logo_url": "https://img.logo.dev/marineproductscorp.com?token=pk_eQ09Nzd2Q--CuqQSTOZ-LA",
+        "logo_path": "batch-10_001-11_000/logos/marineproductscorp_com_logo.png",
+        "matched_name": "MARINE PRODUCTS CORPORATION"
+    },
+    {
+        "company": "Masco Corp",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+        "company": "Matador Resources Company",
+        "domain": null,
+        "error": "'NoneType' object has no attribute 'lower'"
+    }
+]
